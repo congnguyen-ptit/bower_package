@@ -13999,6 +13999,8 @@ a:focus {
   line-height: 20px;
   padding: 0 20px;
   width: 145px;
+  text-align: center;
+  padding-top: 20px;
 }
 @media (max-width: 991px) {
   .woocommerce .shop_table .product-remove {
@@ -16557,7 +16559,7 @@ a:focus {
   color: #282828;
 }
 .single-book-box .post-detail {
-  background-color: #fff;
+  background-color: #eeee;
   display: inline-block;
   position: absolute;
   right: -10px;
@@ -16717,7 +16719,7 @@ a:focus {
 .books-gird ul li {
   border: 5px solid #f3f3f3;
   display: inline-block;
-  margin: 0 26px 30px 0;
+  margin: 0 20px 30px 0;
   position: relative;
   -webkit-transition: border 500ms ease-out;
   -o-transition: border 500ms ease-out;
@@ -17212,6 +17214,8 @@ a:focus {
   color: #fff;
   padding: 20px;
   text-transform: uppercase;
+  text-align: center;
+  vertical-align: middle;
 }
 @media (max-width: 991px) {
   .table-tabs .table th {
@@ -18182,7 +18186,7 @@ a:focus {
 }
 .comment-form-comment textarea {
   display: block;
-  height: 233px;
+  height: 150px;
   padding: 15px;
   resize: none;
   width: 100%;
@@ -19219,4 +19223,7 @@ a:focus {
 }
 .bx-wrapper .bx-pager.bx-default-pager a.active {
   background: #ff7236;
+}
+#out {
+  color: red;
 }
