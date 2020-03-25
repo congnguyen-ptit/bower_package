@@ -1,0 +1,14 @@
+{
+  "name": "bower_package",
+  "homepage": "https://github.com/congnguyen-ptit/bower_package",
+  "_release": "46763e2460",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "46763e246003df6b9032c4cc4f1ce87393d54e0c"
+  },
+  "_source": "https://github.com/congnguyen-ptit/bower_package.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/congnguyen-ptit/bower_package.git",
+  "_direct": true
+}
