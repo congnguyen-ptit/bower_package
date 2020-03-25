@@ -19220,3 +19220,13 @@ a:focus {
 .bx-wrapper .bx-pager.bx-default-pager a.active {
   background: #ff7236;
 }
+ .minhdeptrai {
+  display: block;
+}
+
+.minhdeptrai2 {
+  display: block;
+  position: absolute;
+  top:0;
+  left: 100%;
+}
